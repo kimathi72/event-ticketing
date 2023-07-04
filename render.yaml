@@ -1,7 +1,5 @@
 databases:
   - name: postgres
-    databaseName: event-ticketing
-    user: roy
     ipAllowList: []
 
 services:
