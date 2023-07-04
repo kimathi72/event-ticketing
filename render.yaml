@@ -1,5 +1,7 @@
 databases:
   - name: postgres
+    databaseName: postgres
+    user: roy
     ipAllowList: []
 
 services:
