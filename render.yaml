@@ -1,6 +1,6 @@
 databases:
   - name: postgres
-    databaseName: postgres
+    databaseName: event_ticketing_db
     user: roy
     ipAllowList: []
 
